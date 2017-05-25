@@ -88,7 +88,7 @@ This code book summarizes the resulting data fields in tidy.txt.
 <li>fBodyBodyGyroJerkMagStd</li>
 <li>fBodyBodyGyroJerkMagMeanFreq</li>
 
-##Activity Labels
+## Activity Labels
 
 <li>WALKING (value 1): subject was walking during the test</li>
 <li>WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test</li>
