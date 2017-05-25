@@ -1,5 +1,5 @@
 
-Getting and Cleaning Data - Course Project
+## Getting and Cleaning Data - Course Project
 
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
@@ -10,6 +10,6 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 5. Appropriately labels the data set with descriptive activity names.
 6. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Additional Information
+## Additional Information
 
 You can find additional information about the variables, data and transformations in the CodeBook.MD file.
